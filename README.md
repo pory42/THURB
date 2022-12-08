@@ -1,6 +1,5 @@
 # [THURB](https://youtu.be/errE4wvT94Q)
-<img src="./img/thurb.jpeg" width="250">
-<img src="./img/logo.jpg" width="200">
+<img src="./img/thurb.jpeg" width="250"><img src="./img/logo.jpg" width="200">
 
 THURB는 Thursday Rhythm & Blues 를 의미하며 일주일에 한 번( 목요일 )은 R&B를 즐기며 작업하는 디렉터의 취향을 토대로 시작되었습니다.
 
