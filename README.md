@@ -7,3 +7,5 @@ THURB의 라벨은 직접 선정한 다양한 음악을 QR로 제작하여 연�
 
 이를 통해 일주일의 한 번은 음악과 함께하며 영감을 찾는 THURB Club과 함께 할 수 있습니다.
 
+[2022](https://github.com/users/pory42/projects/1/views/1)<br>
+[2023](https://github.com/users/pory42/projects/2)
