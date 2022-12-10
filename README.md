@@ -15,5 +15,5 @@ THURB의 라벨은 직접 선정한 다양한 음악을 QR로 제작하여 연�
 
 ## Season
 
-[2022](https://github.com/users/pory42/projects/1/views/1)<br>
-[2023](https://github.com/users/pory42/projects/2)
+[2022]<br>
+[2023]
