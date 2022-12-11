@@ -20,4 +20,4 @@ THURB의 라벨은 직접 선정한 다양한 음악을 QR로 제작하여 연�
 
 ## official
 [Website](https://thurb.kr)
-[instagram]
+[instagram](https://www.instagram.com/thurbstudio/)
